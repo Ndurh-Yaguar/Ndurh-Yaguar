@@ -2,16 +2,20 @@
 
 ## About Me
 
-I’m an IT student passionate about web development, software development, and Cybersecurity. I enjoy building solutions to real-world problems through innovative technology. My focus is on [mention specific interests like machine learning, front-end development, etc.].
+I’m an IT student passionate about web development, software development, and Cybersecurity. I enjoy building solutions to real-world problems through innovative technology. My focus is on fullstack developement, Database Systems and Data Analytics.
 
 ### 🌱 What I’m currently learning:
 - CSS, UI/UX
-- Network Fundamentals 
+- Network Fundamentals
+- Database Systems
+- Data Analytics
+- Web Development
+- Data structure and Algorithms
 
 ### 💻 Tech Stack:
 - **Languages:** Python, Java, C#.
-- **Web Technologies:** HTML.
-- **Databases:** MS Acces
+- **Web Technologies:** HTML, CSS, Javascript.
+- **Databases:** Cloud Firestore
   
 
 ### 📈 GitHub Stats
